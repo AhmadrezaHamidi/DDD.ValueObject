@@ -18,13 +18,23 @@ namespace DDD.ValueObject.Moneyv1
 
 	public class uniqName
 	{
-		public uniqName(string firstName , string lastName)
-		{
-			
 
+
+		public static uniqName uNiqNamwCreate(string firstName, string lastName)
+		{
+			if (string.IsNullOrEmpty(firstName))
+				throw new firstNameISReusired();
+
+            if (string.IsNullOrEmpty(lastName))
+                throw new firstNameISReusired();
+
+            return new uniqName(firstName, lastName);
+		}
+
+		private uniqName(string firstName , string lastName)
+		{
 			this._firstName = firstName;
 			this._lastName = lastName;
-
         }
 
         public string _firstName { get; private set; }

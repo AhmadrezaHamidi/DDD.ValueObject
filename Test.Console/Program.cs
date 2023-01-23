@@ -20,9 +20,9 @@ Console.WriteLine("Hello, World!");
 //uniqName uniqName, Birthadte ,
 //            MarrDate MarrDate
 
-var dateTime =new Birthadte(new DateTime());
-var dateTime1 = new MarrDate(new DateTime());
-var uniqName = new uniqName("Ahmad", "Vali");
+//var dateTime =new Birthadte(new DateTime());
+//var dateTime1 = new MarrDate(new DateTime());
+//var uniqName = new uniqName("Ahmad", "Vali");
 
 
-Person Person1 = new Person(uniqName , dateTime , dateTime1 );
+//Person Person1 = new Person(uniqName , dateTime , dateTime1 );
