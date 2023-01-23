@@ -1,0 +1,12 @@
+/Users/ahmadhfr/Documents/work/Backend/Project_Exampel/ValueObjectDDD/ValueObjectDD/DDD.ValueObject/bin/Debug/net7.0/DDD.ValueObject.deps.json
+/Users/ahmadhfr/Documents/work/Backend/Project_Exampel/ValueObjectDDD/ValueObjectDD/DDD.ValueObject/bin/Debug/net7.0/DDD.ValueObject.dll
+/Users/ahmadhfr/Documents/work/Backend/Project_Exampel/ValueObjectDDD/ValueObjectDD/DDD.ValueObject/bin/Debug/net7.0/DDD.ValueObject.pdb
+/Users/ahmadhfr/Documents/work/Backend/Project_Exampel/ValueObjectDDD/ValueObjectDD/DDD.ValueObject/obj/Debug/net7.0/DDD.ValueObject.csproj.AssemblyReference.cache
+/Users/ahmadhfr/Documents/work/Backend/Project_Exampel/ValueObjectDDD/ValueObjectDD/DDD.ValueObject/obj/Debug/net7.0/DDD.ValueObject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmadhfr/Documents/work/Backend/Project_Exampel/ValueObjectDDD/ValueObjectDD/DDD.ValueObject/obj/Debug/net7.0/DDD.ValueObject.AssemblyInfoInputs.cache
+/Users/ahmadhfr/Documents/work/Backend/Project_Exampel/ValueObjectDDD/ValueObjectDD/DDD.ValueObject/obj/Debug/net7.0/DDD.ValueObject.AssemblyInfo.cs
+/Users/ahmadhfr/Documents/work/Backend/Project_Exampel/ValueObjectDDD/ValueObjectDD/DDD.ValueObject/obj/Debug/net7.0/DDD.ValueObject.csproj.CoreCompileInputs.cache
+/Users/ahmadhfr/Documents/work/Backend/Project_Exampel/ValueObjectDDD/ValueObjectDD/DDD.ValueObject/obj/Debug/net7.0/DDD.ValueObject.dll
+/Users/ahmadhfr/Documents/work/Backend/Project_Exampel/ValueObjectDDD/ValueObjectDD/DDD.ValueObject/obj/Debug/net7.0/refint/DDD.ValueObject.dll
+/Users/ahmadhfr/Documents/work/Backend/Project_Exampel/ValueObjectDDD/ValueObjectDD/DDD.ValueObject/obj/Debug/net7.0/DDD.ValueObject.pdb
+/Users/ahmadhfr/Documents/work/Backend/Project_Exampel/ValueObjectDDD/ValueObjectDD/DDD.ValueObject/obj/Debug/net7.0/ref/DDD.ValueObject.dll

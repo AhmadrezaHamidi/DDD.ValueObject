@@ -1,0 +1,89 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "DDD.ValueObject/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/DDD.ValueObject.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DDD.ValueObject.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DDD.ValueObject/1.0.0": {
+      "type": "project",
+      "path": "../DDD.ValueObject/DDD.ValueObject.csproj",
+      "msbuildProject": "../DDD.ValueObject/DDD.ValueObject.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "DDD.ValueObject >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/ahmadhfr/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/ahmadhfr/Documents/work/Backend/Project_Exampel/ValueObjectDDD/ValueObjectDD/Test.Console/Test.Console.csproj",
+      "projectName": "Test.Console",
+      "projectPath": "/Users/ahmadhfr/Documents/work/Backend/Project_Exampel/ValueObjectDDD/ValueObjectDD/Test.Console/Test.Console.csproj",
+      "packagesPath": "/Users/ahmadhfr/.nuget/packages/",
+      "outputPath": "/Users/ahmadhfr/Documents/work/Backend/Project_Exampel/ValueObjectDDD/ValueObjectDD/Test.Console/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/ahmadhfr/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "/Users/ahmadhfr/Documents/work/Backend/Project_Exampel/ValueObjectDDD/ValueObjectDD/DDD.ValueObject/DDD.ValueObject.csproj": {
+              "projectPath": "/Users/ahmadhfr/Documents/work/Backend/Project_Exampel/ValueObjectDDD/ValueObjectDD/DDD.ValueObject/DDD.ValueObject.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/7.0.100/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
