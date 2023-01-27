@@ -1,0 +1,14 @@
+/Users/ahmadhfr/Documents/work/Backend/Project_Exampel/ValueObjectDDD/ValueObjectDD/DDD.ValueObjectStore/obj/Debug/net7.0/DDD.ValueObjectStore.csproj.AssemblyReference.cache
+/Users/ahmadhfr/Documents/work/Backend/Project_Exampel/ValueObjectDDD/ValueObjectDD/DDD.ValueObjectStore/obj/Debug/net7.0/DDD.ValueObjectStore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmadhfr/Documents/work/Backend/Project_Exampel/ValueObjectDDD/ValueObjectDD/DDD.ValueObjectStore/obj/Debug/net7.0/DDD.ValueObjectStore.AssemblyInfoInputs.cache
+/Users/ahmadhfr/Documents/work/Backend/Project_Exampel/ValueObjectDDD/ValueObjectDD/DDD.ValueObjectStore/obj/Debug/net7.0/DDD.ValueObjectStore.AssemblyInfo.cs
+/Users/ahmadhfr/Documents/work/Backend/Project_Exampel/ValueObjectDDD/ValueObjectDD/DDD.ValueObjectStore/obj/Debug/net7.0/DDD.ValueObjectStore.csproj.CoreCompileInputs.cache
+/Users/ahmadhfr/Documents/work/Backend/Project_Exampel/ValueObjectDDD/ValueObjectDD/DDD.ValueObjectStore/bin/Debug/net7.0/DDD.ValueObjectStore.deps.json
+/Users/ahmadhfr/Documents/work/Backend/Project_Exampel/ValueObjectDDD/ValueObjectDD/DDD.ValueObjectStore/bin/Debug/net7.0/DDD.ValueObjectStore.dll
+/Users/ahmadhfr/Documents/work/Backend/Project_Exampel/ValueObjectDDD/ValueObjectDD/DDD.ValueObjectStore/bin/Debug/net7.0/DDD.ValueObjectStore.pdb
+/Users/ahmadhfr/Documents/work/Backend/Project_Exampel/ValueObjectDDD/ValueObjectDD/DDD.ValueObjectStore/obj/Debug/net7.0/DDD.ValueObjectStore.dll
+/Users/ahmadhfr/Documents/work/Backend/Project_Exampel/ValueObjectDDD/ValueObjectDD/DDD.ValueObjectStore/obj/Debug/net7.0/refint/DDD.ValueObjectStore.dll
+/Users/ahmadhfr/Documents/work/Backend/Project_Exampel/ValueObjectDDD/ValueObjectDD/DDD.ValueObjectStore/obj/Debug/net7.0/DDD.ValueObjectStore.pdb
+/Users/ahmadhfr/Documents/work/Backend/Project_Exampel/ValueObjectDDD/ValueObjectDD/DDD.ValueObjectStore/obj/Debug/net7.0/ref/DDD.ValueObjectStore.dll
+/Users/ahmadhfr/Documents/work/Backend/Project_Exampel/ValueObjectDDD/ValueObjectDD/DDD.ValueObjectStore/bin/Debug/net7.0/DDD.ValueObjectStore.runtimeconfig.json
+/Users/ahmadhfr/Documents/work/Backend/Project_Exampel/ValueObjectDDD/ValueObjectDD/DDD.ValueObjectStore/obj/Debug/net7.0/DDD.ValueObjectStore.genruntimeconfig.cache

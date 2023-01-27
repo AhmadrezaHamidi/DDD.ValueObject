@@ -1,0 +1,77 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/ahmadhfr/Documents/work/Backend/Project_Exampel/ValueObjectDDD/ValueObjectDD/DDD.ValueObjectStore/DDD.ValueObjectStore.csproj": {}
+  },
+  "projects": {
+    "/Users/ahmadhfr/Documents/work/Backend/Project_Exampel/ValueObjectDDD/ValueObjectDD/DDD.ValueObjectStore/DDD.ValueObjectStore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ahmadhfr/Documents/work/Backend/Project_Exampel/ValueObjectDDD/ValueObjectDD/DDD.ValueObjectStore/DDD.ValueObjectStore.csproj",
+        "projectName": "DDD.ValueObjectStore",
+        "projectPath": "/Users/ahmadhfr/Documents/work/Backend/Project_Exampel/ValueObjectDDD/ValueObjectDD/DDD.ValueObjectStore/DDD.ValueObjectStore.csproj",
+        "packagesPath": "/Users/ahmadhfr/.nuget/packages/",
+        "outputPath": "/Users/ahmadhfr/Documents/work/Backend/Project_Exampel/ValueObjectDDD/ValueObjectDD/DDD.ValueObjectStore/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ahmadhfr/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational.Design": {
+              "target": "Package",
+              "version": "[1.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/7.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
