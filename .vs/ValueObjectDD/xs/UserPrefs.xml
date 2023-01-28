@@ -1,35 +1,34 @@
 ﻿<Properties StartupConfiguration="{907ADECD-6EE7-4988-939E-C9683B718814}|https">
   <MonoDevelop.Ide.ItemProperties.DDD.ValueObjectData PreferredExecutionTarget="/Applications/Safari.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="DDD.ValueObject/Moneyv1/ValueObject.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DDD.Entities/ISpecificationOFT.cs">
     <Files>
-      <File FileName="DDD.ValueObject/Moneyv1/Money.cs" />
-      <File FileName="Test.Console/Program.cs" Line="28" Column="65" />
+      <File FileName="DDD.ValueObject/Moneyv1/Money.cs" Line="15" Column="39" />
+      <File FileName="Test.Console/Program.cs" Line="28" Column="66" />
       <File FileName="DDD.ValueObject/Moneyv1/ValueObject.cs" Line="8" Column="30" />
       <File FileName="DDD.ValueObject/Moneyv1/Person.cs" />
-      <File FileName="DDD.ValueObject/Moneyv1/firstNameISReusired.cs" />
-      <File FileName="DDD.ValueObjectData/Program.cs" Line="13" Column="1" />
-      <File FileName="DDD.ValueObjectData/WeatherForecast.cs" Line="49" Column="38" />
-      <File FileName="DDD.ValueObjectData/Controllers/WeatherForecastController.cs" Line="1" Column="1" />
-      <File FileName="DDD.ValueObjectData/Migrations/PersonContextModelSnapshot.cs" Line="1" Column="1" />
+      <File FileName="DDD.ValueObject/Moneyv1/firstNameISReusired.cs" Line="1" Column="1" />
+      <File FileName="DDD.ValueObjectData/Program.cs" Line="27" Column="2" />
+      <File FileName="DDD.ValueObjectData/WeatherForecast.cs" Line="63" Column="39" />
+      <File FileName="DDD.ValueObjectData/Controllers/WeatherForecastController.cs" />
+      <File FileName="DDD.ValueObjectData/Migrations/PersonContextModelSnapshot.cs" />
+      <File FileName="DDD.Entities/Class1.cs" Line="33" Column="11" />
+      <File FileName="DDD.Entities/ISpecificationOFT.cs" Line="24" Column="64" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="ValueObjectDD" expanded="True" selected="True">
-            <Node name="DDD.ValueObject" expanded="True">
-              <Node name="Moneyv1" expanded="True" />
-            </Node>
-            <Node name="DDD.ValueObjectData" expanded="True">
-              <Node name="Dependencies" expanded="True" />
-              <Node name="Controllers" expanded="True" />
-              <Node name="Migrations" expanded="True" />
+          <Node name="ValueObjectDD" expanded="True">
+            <Node name="DDD.Entities" expanded="True">
+              <Node name="ISpecificationOFT.cs" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.Test.Console PreferredExecutionTarget="MonoDevelop.Default" />
